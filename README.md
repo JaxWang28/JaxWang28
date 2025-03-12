@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackson Wang.
-- 👀 I’m interested in Linux, OpenWRT, WiFi.
+- 👀 I’m interested in Linux, OpenWRT, WiFi, Rust.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
