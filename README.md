@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Linux Kernel, Rust.**
 
-- 📝 I regularly write articles on [blog.jaxwang28.top](blog.jaxwang28.top)
+- 📝 I regularly write articles on [blog.jaxwang28.top](https://blog.jaxwang28.top)
 
 - 💬 Ask me about **Rust, Linux, C, Arch Linux, OpenWrt.**
 
